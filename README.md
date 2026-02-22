@@ -7,7 +7,7 @@ Este repositorio contiene una colección estructurada de implementaciones en C++
 * **`/Fundamentos c++`**: Implementación de estructuras de control (if/else, switch), ciclos, operadores matemáticos y manipulación de variables básicas.
 * **`/POO C++`**: Desarrollo de clases, objetos, herencia, encapsulamiento y polimorfismo aplicados a casos de uso.
 * **`/Estructura y base de datos`**: Implementación de estructuras de datos dinámicas en memoria (nodos, listas enlazadas simples y doblemente enlazadas). Uso de `structs` para el modelado de entidades y rutinas de persistencia/lectura de datos mediante manejo de archivos (`.txt`/`.dat`) desde C++.
-* 
+
 
 ## ⚙️ Habilidades Demostradas
 * Procesamiento de datos y matemáticas aplicadas.
